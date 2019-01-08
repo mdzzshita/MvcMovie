@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{0CDE5ED7-66BD-4824-82C2-A3FB181B3AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{DAE0B51D-D2F6-4663-9C3C-37197BD91F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDE5ED7-66BD-4824-82C2-A3FB181B3AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDE5ED7-66BD-4824-82C2-A3FB181B3AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDE5ED7-66BD-4824-82C2-A3FB181B3AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDE5ED7-66BD-4824-82C2-A3FB181B3AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE0B51D-D2F6-4663-9C3C-37197BD91F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE0B51D-D2F6-4663-9C3C-37197BD91F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE0B51D-D2F6-4663-9C3C-37197BD91F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE0B51D-D2F6-4663-9C3C-37197BD91F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
